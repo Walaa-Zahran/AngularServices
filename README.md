@@ -31,4 +31,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Use Case 
+
+1-Create employee details such as name , employee ID and email ID
+2-Click on the employee button to retrieve an employee's data
+3-Add the location for the employees in the list
+
 ![video](last1(1).gif)
+
