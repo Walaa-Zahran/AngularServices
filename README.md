@@ -2,7 +2,7 @@
 
 `npm install`
 
-`ng serve`
+`ng serve -o`
 
 
 
